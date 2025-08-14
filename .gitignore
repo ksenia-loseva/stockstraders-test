@@ -1,0 +1,6 @@
+**/allure-results
+**/allure-report
+.venv
+.idea
+.env
+screenshot/
